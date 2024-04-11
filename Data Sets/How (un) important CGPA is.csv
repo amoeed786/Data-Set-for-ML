@@ -1,0 +1,510 @@
+What is your gender?,In which department you are currently enrolled in?,In which category do you fall in?,What is your current CGPA?,Do you think CGPA is a good indicator of ability?,Does CGPA defines your IQ?,Would you rather focus on your Skills or your CGPA?,Is it possible to maintain a Good CGPA and Good Skills at the same time?,Does a prestigious university will get you a well-paid job?,What is more crucial on resume/CV?,What would you prefer?,A person with a good CGPA but have no Skills related to his/her field. Will he/she get a good job in future?
+Male,Computer Science Department,Junior,2.1 -- 3.0,"Maybe, I don't know",3,I'm partially working on both,4,3,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Sophomore,3.1 -- 3.5,"No, I don't think so",1,"I want to improve my skills, then my CGPA",3,4,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"No, I don't think so",2,I'm partially working on both,2,2,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Sophomore,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,4,1,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Freshmen,3.1 -- 3.5,"No, I don't think so",4,I'm partially working on both,5,3,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Freshmen,3.6 -- 4.0,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",5,3,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Junior,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,3,4,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Senior,1.7 -- 2.0,"No, I don't think so",1,"I want to improve my skills, then my CGPA",1,1,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Freshmen,3.6 -- 4.0,"Yes, I think so",1,Trying to get a good CGPA first,1,1,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",2,4,Experience,Highly paid jobs with average skills set,Yes
+Male,Computer Science Department,Junior,3.1 -- 3.5,"No, I don't think so",2,"I want to improve my skills, then my CGPA",4,4,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Sophomore,2.1 -- 3.0,"No, I don't think so",3,I'm partially working on both,3,3,Both,Career learning skills with low paid jobs,Yes
+Female,Computer Science Department,Senior,2.1 -- 3.0,"Yes, I think so",5,I'm partially working on both,2,3,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Junior,3.6 -- 4.0,"No, I don't think so",1,I'm partially working on both,5,5,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Graduated,2.1 -- 3.0,"No, I don't think so",1,"I want to improve my skills, then my CGPA",4,4,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Senior,2.1 -- 3.0,"Yes, I think so",3,I'm partially working on both,3,3,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Sophomore,3.6 -- 4.0,"No, I don't think so",3,I'm partially working on both,4,2,Both,Highly paid jobs with average skills set,No
+Male,Engineering Department,Junior,2.1 -- 3.0,"Maybe, I don't know",2,Trying to get a good CGPA first,5,4,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Senior,2.1 -- 3.0,"No, I don't think so",1,"I want to improve my skills, then my CGPA",5,5,Experience,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Junior,3.1 -- 3.5,"Yes, I think so",4,I'm partially working on both,5,5,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Junior,3.6 -- 4.0,"No, I don't think so",3,I'm partially working on both,5,4,Experience,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Graduated,2.1 -- 3.0,"No, I don't think so",1,"I want to improve my skills, then my CGPA",2,1,Experience,Career learning skills with low paid jobs,Yes
+Female,Arts Department,Graduated,2.1 -- 3.0,"Yes, I think so",3,"I want to improve my skills, then my CGPA",2,3,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Senior,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,3,3,Both,Highly paid jobs with average skills set,Yes
+Female,Medical and Health Sciences,Sophomore,3.6 -- 4.0,"Maybe, I don't know",2,"I want to improve my skills, then my CGPA",4,2,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"No, I don't think so",1,"I want to improve my skills, then my CGPA",3,3,Experience,Career learning skills with low paid jobs,No
+Female,Business,Freshmen,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,5,4,Both,Career learning skills with low paid jobs,No
+Male,Engineering Department,Graduated,3.6 -- 4.0,"Yes, I think so",4,Trying to get a good CGPA first,3,5,CGPA,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Sophomore,3.1 -- 3.5,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",5,3,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Sophomore,2.1 -- 3.0,"Maybe, I don't know",3,Trying to get a good CGPA first,3,2,Both,Career learning skills with low paid jobs,No
+Female,Business,Sophomore,3.6 -- 4.0,"Maybe, I don't know",3,Trying to get a good CGPA first,5,3,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Senior,2.1 -- 3.0,"Yes, I think so",3,"I want to improve my skills, then my CGPA",4,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Senior,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,5,5,Both,Career learning skills with low paid jobs,No
+Male,Accountancy ,Senior,3.1 -- 3.5,"No, I don't think so",2,"I want to improve my skills, then my CGPA",3,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Senior,3.6 -- 4.0,"No, I don't think so",4,I'm partially working on both,3,4,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Junior,3.6 -- 4.0,"Maybe, I don't know",4,I'm partially working on both,5,5,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Senior,2.1 -- 3.0,"No, I don't think so",1,I'm partially working on both,4,5,Experience,Highly paid jobs with average skills set,No
+Female,Digital Media ,Junior,3.6 -- 4.0,"Maybe, I don't know",5,I'm partially working on both,4,4,Both,Career learning skills with low paid jobs,No
+Female,Business,Freshmen,3.6 -- 4.0,"Maybe, I don't know",3,I'm partially working on both,5,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Junior,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,4,3,Both,Highly paid jobs with average skills set,No
+Male,Business,Freshmen,3.6 -- 4.0,"Maybe, I don't know",3,Trying to get a good CGPA first,3,2,Experience,Highly paid jobs with average skills set,Yes
+Male,Computer Science Department,Sophomore,2.1 -- 3.0,"No, I don't think so",3,I'm partially working on both,4,3,Both,Career learning skills with low paid jobs,No
+Female,Engineering Department,Freshmen,3.1 -- 3.5,"Maybe, I don't know",4,I'm partially working on both,4,2,Both,Career learning skills with low paid jobs,No
+Female,International Relations,Sophomore,3.1 -- 3.5,"No, I don't think so",1,I'm partially working on both,4,2,Experience,Highly paid jobs with average skills set,No
+Male,Medical and Health Sciences,Junior,3.1 -- 3.5,"Maybe, I don't know",2,I'm partially working on both,5,4,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Junior,3.6 -- 4.0,"No, I don't think so",3,I'm partially working on both,5,2,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Freshmen,2.1 -- 3.0,"No, I don't think so",2,Trying to get a good CGPA first,2,3,Experience,Career learning skills with low paid jobs,Yes
+Male,E COMMERCE ,Senior,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",3,1,Experience,Career learning skills with low paid jobs,No
+Female,Business,Junior,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,4,2,Both,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Sophomore,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,2,2,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Junior,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,5,5,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Sophomore,3.6 -- 4.0,"No, I don't think so",2,I'm partially working on both,5,3,Both,Career learning skills with low paid jobs,No
+Female,Business,Freshmen,3.6 -- 4.0,"No, I don't think so",3,I'm partially working on both,2,4,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Senior,3.1 -- 3.5,"Yes, I think so",4,I'm partially working on both,3,5,Experience,Highly paid jobs with average skills set,Yes
+Male,Software Engineering,Junior,3.6 -- 4.0,"No, I don't think so",2,"I want to improve my skills, then my CGPA",3,3,Both,Highly paid jobs with average skills set,Yes
+Female,Nutrition and dietetics,Junior,3.1 -- 3.5,"Yes, I think so",3,Trying to get a good CGPA first,3,2,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Sophomore,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,5,4,Both,Highly paid jobs with average skills set,No
+Male,Medical and Health Sciences,Freshmen,2.1 -- 3.0,"Maybe, I don't know",2,"I want to improve my skills, then my CGPA",3,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Graduated,2.1 -- 3.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",3,4,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Sophomore,3.1 -- 3.5,"No, I don't think so",1,"I want to improve my skills, then my CGPA",3,4,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Senior,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",4,4,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Senior,2.1 -- 3.0,"Yes, I think so",2,"I want to improve my skills, then my CGPA",3,4,Experience,Career learning skills with low paid jobs,Yes
+Female,Medical and Health Sciences,Sophomore,2.1 -- 3.0,"Maybe, I don't know",1,I'm partially working on both,3,2,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Freshmen,3.6 -- 4.0,"Maybe, I don't know",2,I'm partially working on both,5,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"No, I don't think so",1,"I want to improve my skills, then my CGPA",5,2,Experience,Career learning skills with low paid jobs,No
+Female,Business,Graduated,3.6 -- 4.0,"No, I don't think so",1,"I want to improve my skills, then my CGPA",3,5,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"No, I don't think so",3,I'm partially working on both,4,4,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Maybe, I don't know",4,I'm partially working on both,4,4,Both,Highly paid jobs with average skills set,Yes
+Male,Engineering Department,Junior,3.6 -- 4.0,"Yes, I think so",5,I'm partially working on both,5,5,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Freshmen,3.6 -- 4.0,"No, I don't think so",2,I'm partially working on both,5,3,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Sophomore,3.6 -- 4.0,"No, I don't think so",1,I'm partially working on both,5,4,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"No, I don't think so",4,I'm partially working on both,4,5,Experience,Career learning skills with low paid jobs,Yes
+Male,Computer Science Department,Junior,3.6 -- 4.0,"No, I don't think so",2,I'm partially working on both,4,3,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Sophomore,2.1 -- 3.0,"No, I don't think so",2,I'm partially working on both,1,5,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Senior,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",5,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.6 -- 4.0,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",3,3,Experience,Career learning skills with low paid jobs,No
+Male,Engineering Department,Sophomore,3.1 -- 3.5,"No, I don't think so",1,"I want to improve my skills, then my CGPA",4,4,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Senior,2.1 -- 3.0,"Maybe, I don't know",3,I'm partially working on both,3,2,Both,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Junior,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,4,5,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",4,I'm partially working on both,3,4,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Junior,3.6 -- 4.0,"No, I don't think so",4,"I want to improve my skills, then my CGPA",4,3,Experience,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Sophomore,2.1 -- 3.0,"No, I don't think so",1,I'm partially working on both,3,3,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Graduated,3.1 -- 3.5,"No, I don't think so",3,I'm partially working on both,3,2,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Senior,3.1 -- 3.5,"No, I don't think so",2,I'm partially working on both,4,2,Experience,Career learning skills with low paid jobs,No
+Female,Business,Freshmen,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,5,3,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Freshmen,3.6 -- 4.0,"No, I don't think so",4,"I want to improve my skills, then my CGPA",5,3,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Junior,3.6 -- 4.0,"Yes, I think so",5,I'm partially working on both,5,4,Experience,Highly paid jobs with average skills set,No
+Female,Social department ,Senior,3.6 -- 4.0,"Yes, I think so",3,I'm partially working on both,4,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Junior,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,4,3,Both,Career learning skills with low paid jobs,Yes
+Female,Computer Science Department,Senior,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",4,3,Experience,Career learning skills with low paid jobs,No
+Male,Arts Department,Graduated,2.1 -- 3.0,"Maybe, I don't know",4,I'm partially working on both,2,4,Experience,Career learning skills with low paid jobs,No
+Female,Environmental sciences,Senior,3.1 -- 3.5,"No, I don't think so",2,I'm partially working on both,4,3,Experience,Career learning skills with low paid jobs,No
+Male,Engineering Department,Junior,2.1 -- 3.0,"Yes, I think so",3,"I want to improve my skills, then my CGPA",2,2,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Junior,2.1 -- 3.0,"Maybe, I don't know",2,I'm partially working on both,4,3,Experience,Career learning skills with low paid jobs,No
+Prefer not to say,Computer Science Department,Freshmen,3.1 -- 3.5,"No, I don't think so",1,"I want to improve my skills, then my CGPA",3,1,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Junior,2.1 -- 3.0,"Maybe, I don't know",3,I'm partially working on both,3,2,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Sophomore,3.1 -- 3.5,"Maybe, I don't know",4,I'm partially working on both,5,4,Both,Highly paid jobs with average skills set,Yes
+Male,Computer Science Department,Junior,3.6 -- 4.0,"No, I don't think so",3,I'm partially working on both,3,5,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Sophomore,3.1 -- 3.5,"Maybe, I don't know",2,I'm partially working on both,4,4,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Sophomore,3.6 -- 4.0,"Maybe, I don't know",3,I'm partially working on both,4,2,Experience,Highly paid jobs with average skills set,No
+Female,Information management ,Junior,3.1 -- 3.5,"Yes, I think so",4,I'm partially working on both,4,4,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Graduated,3.6 -- 4.0,"Yes, I think so",3,"I want to improve my skills, then my CGPA",4,5,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Senior,2.1 -- 3.0,"Maybe, I don't know",4,"I want to improve my skills, then my CGPA",3,4,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Sophomore,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,5,4,Both,Highly paid jobs with average skills set,No
+Female,Information management,Junior,3.6 -- 4.0,"Yes, I think so",3,I'm partially working on both,4,3,Experience,Highly paid jobs with average skills set,No
+Male,Information management ,Junior,2.1 -- 3.0,"Yes, I think so",1,"I want to improve my skills, then my CGPA",3,3,Experience,Highly paid jobs with average skills set,No
+Male,Information Management ,Junior,1.7 -- 2.0,"No, I don't think so",1,"I want to improve my skills, then my CGPA",1,1,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"No, I don't think so",2,"I want to improve my skills, then my CGPA",3,2,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Graduated,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",5,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Senior,1.7 -- 2.0,"Maybe, I don't know",3,I'm partially working on both,5,5,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Junior,2.1 -- 3.0,"Yes, I think so",3,"I want to improve my skills, then my CGPA",5,3,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Sophomore,3.1 -- 3.5,"No, I don't think so",1,I'm partially working on both,5,5,Experience,Career learning skills with low paid jobs,Yes
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",1,I'm partially working on both,3,1,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Freshmen,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",3,3,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Junior,3.1 -- 3.5,"Yes, I think so",2,I'm partially working on both,3,2,Experience,Career learning skills with low paid jobs,No
+Female,Communication and Media,Junior,3.1 -- 3.5,"No, I don't think so",1,I'm partially working on both,4,1,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Junior,3.1 -- 3.5,"No, I don't think so",3,I'm partially working on both,3,3,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Senior,3.6 -- 4.0,"Yes, I think so",2,I'm partially working on both,3,4,Both,Highly paid jobs with average skills set,No
+Female,Business,Graduated,2.1 -- 3.0,"No, I don't think so",3,Trying to get a good CGPA first,3,2,Experience,Career learning skills with low paid jobs,No
+Male,IIM,Freshmen,1.7 -- 2.0,"Maybe, I don't know",2,Trying to get a good CGPA first,4,3,Experience,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Graduated,3.6 -- 4.0,"Yes, I think so",5,I'm partially working on both,5,5,Experience,Highly paid jobs with average skills set,No
+Female,Bs e-commerce,Junior,2.1 -- 3.0,"Yes, I think so",3,"I want to improve my skills, then my CGPA",3,3,Both,Career learning skills with low paid jobs,No
+Female,Engineering Department,Junior,2.1 -- 3.0,"No, I don't think so",2,I'm partially working on both,2,2,Both,Highly paid jobs with average skills set,Yes
+Male,Information managment,Freshmen,2.1 -- 3.0,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",3,3,Experience,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Senior,2.1 -- 3.0,"No, I don't think so",5,"I want to improve my skills, then my CGPA",4,4,CGPA,Highly paid jobs with average skills set,No
+Female,Business,Senior,2.1 -- 3.0,"Yes, I think so",3,I'm partially working on both,5,1,Both,Career learning skills with low paid jobs,Yes
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",4,"I want to improve my skills, then my CGPA",3,4,Both,Career learning skills with low paid jobs,No
+Male,Media and mass communication ,Junior,3.6 -- 4.0,"No, I don't think so",2,"I want to improve my skills, then my CGPA",5,3,Experience,Highly paid jobs with average skills set,No
+Male,Agriculture ,Freshmen,3.6 -- 4.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",4,2,Experience,Highly paid jobs with average skills set,No
+Male,Engineering Department,Freshmen,3.1 -- 3.5,"Yes, I think so",4,I'm partially working on both,4,5,CGPA,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Senior,2.1 -- 3.0,"No, I don't think so",1,"I want to improve my skills, then my CGPA",4,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Senior,2.1 -- 3.0,"Maybe, I don't know",3,Trying to get a good CGPA first,4,4,Both,Highly paid jobs with average skills set,No
+Male,Biomedical engineering (mixture of biological sciences and engineering),Sophomore,3.6 -- 4.0,"No, I don't think so",2,I'm partially working on both,2,3,Both,Career learning skills with low paid jobs,No
+Female,Mathematics ,Junior,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",4,2,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Junior,3.1 -- 3.5,"Yes, I think so",4,I'm partially working on both,3,5,Experience,Career learning skills with low paid jobs,Yes
+Female,Data Science ,Sophomore,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",4,2,Experience,Highly paid jobs with average skills set,No
+Male,Law,Senior,3.1 -- 3.5,"Yes, I think so",1,"I want to improve my skills, then my CGPA",5,3,Both,Highly paid jobs with average skills set,No
+Prefer not to say,Computer Science Department,Senior,3.6 -- 4.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",3,5,Experience,Highly paid jobs with average skills set,No
+Male,Information management ,Junior,2.1 -- 3.0,"No, I don't think so",2,I'm partially working on both,5,2,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Senior,2.1 -- 3.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",1,3,Both,Highly paid jobs with average skills set,No
+Male,Engineering Department,Freshmen,1.7 -- 2.0,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",5,4,Experience,Highly paid jobs with average skills set,No
+Male,Business,Graduated,3.6 -- 4.0,"No, I don't think so",3,I'm partially working on both,5,4,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Freshmen,2.1 -- 3.0,"Maybe, I don't know",2,"I want to improve my skills, then my CGPA",2,2,Both,Highly paid jobs with average skills set,No
+Female,Chemistry ,Graduated,3.6 -- 4.0,"No, I don't think so",1,Trying to get a good CGPA first,5,1,Both,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",3,4,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Graduated,3.6 -- 4.0,"Yes, I think so",5,Trying to get a good CGPA first,5,5,CGPA,Highly paid jobs with average skills set,Yes
+Male,Engineering Department,Freshmen,3.6 -- 4.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",5,5,Both,Highly paid jobs with average skills set,No
+Female,Medicine ,Senior,3.1 -- 3.5,"Yes, I think so",4,I'm partially working on both,5,4,Both,Highly paid jobs with average skills set,No
+Prefer not to say,Information management ,Freshmen,3.6 -- 4.0,"No, I don't think so",2,I'm partially working on both,3,3,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Freshmen,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",4,2,Both,Highly paid jobs with average skills set,Yes
+Male,Hailey,Senior,2.1 -- 3.0,"No, I don't think so",1,I'm partially working on both,5,2,Experience,Career learning skills with low paid jobs,No
+Male,GIS,Freshmen,1.7 -- 2.0,"Maybe, I don't know",3,I'm partially working on both,4,5,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Junior,3.1 -- 3.5,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",3,2,Experience,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Graduated,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",5,5,Experience,Career learning skills with low paid jobs,No
+Male,Engineering Department,Senior,2.1 -- 3.0,"Yes, I think so",3,I'm partially working on both,3,3,Experience,Highly paid jobs with average skills set,No
+Male,civil engineering ,Junior,3.1 -- 3.5,"No, I don't think so",3,I'm partially working on both,5,3,Experience,Highly paid jobs with average skills set,Yes
+Female,Business,Junior,2.1 -- 3.0,"No, I don't think so",2,I'm partially working on both,3,4,Both,Career learning skills with low paid jobs,Yes
+Male,Business,Graduated,3.6 -- 4.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",4,5,Both,Career learning skills with low paid jobs,No
+Male,Faculty of Agricultural Sciences,Junior,3.1 -- 3.5,"No, I don't think so",3,I'm partially working on both,5,4,Experience,Career learning skills with low paid jobs,No
+Male,Arts Department,Junior,3.6 -- 4.0,"Yes, I think so",2,I'm partially working on both,4,4,Both,Career learning skills with low paid jobs,No
+Female,Media and communication studies ,Senior,3.1 -- 3.5,"No, I don't think so",2,"I want to improve my skills, then my CGPA",5,5,Both,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",3,3,Experience,Career learning skills with low paid jobs,Yes
+Male,Arts Department,Junior,1.7 -- 2.0,"Yes, I think so",2,"I want to improve my skills, then my CGPA",2,5,Both,Highly paid jobs with average skills set,No
+Male,Engineering Department,Senior,3.1 -- 3.5,"Yes, I think so",5,I'm partially working on both,3,2,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",4,"I want to improve my skills, then my CGPA",4,5,Both,Career learning skills with low paid jobs,Yes
+Male,Computer Science Department,Sophomore,3.6 -- 4.0,"Yes, I think so",2,I'm partially working on both,4,4,Experience,Highly paid jobs with average skills set,No
+Female,Engineering Department,Sophomore,2.1 -- 3.0,"No, I don't think so",3,I'm partially working on both,4,4,Both,Highly paid jobs with average skills set,Yes
+Male,Medical and Health Sciences,Freshmen,2.1 -- 3.0,"No, I don't think so",1,"I want to improve my skills, then my CGPA",4,2,Experience,Highly paid jobs with average skills set,No
+Male,Faculty of Agriculture science ,Freshmen,2.1 -- 3.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",2,5,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Junior,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,5,4,Both,Highly paid jobs with average skills set,No
+Female,Media studies ,Freshmen,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",3,2,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Junior,3.6 -- 4.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",4,3,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Junior,2.1 -- 3.0,"No, I don't think so",1,I'm partially working on both,3,4,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Sophomore,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",5,2,Experience,Highly paid jobs with average skills set,No
+Female,Business,Graduated,3.6 -- 4.0,"No, I don't think so",1,"I want to improve my skills, then my CGPA",3,1,Both,Highly paid jobs with average skills set,No
+Female,Arts Department,Junior,3.1 -- 3.5,"Maybe, I don't know",5,"I want to improve my skills, then my CGPA",2,3,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Freshmen,2.1 -- 3.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",4,4,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Sophomore,3.1 -- 3.5,"Yes, I think so",4,"I want to improve my skills, then my CGPA",5,4,Experience,Highly paid jobs with average skills set,Yes
+Female,Medical and Health Sciences,Senior,3.1 -- 3.5,"Yes, I think so",4,I'm partially working on both,3,3,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Junior,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",5,5,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",1,I'm partially working on both,5,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Junior,3.6 -- 4.0,"Maybe, I don't know",3,I'm partially working on both,3,3,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Junior,3.1 -- 3.5,"Yes, I think so",4,I'm partially working on both,3,5,Both,Highly paid jobs with average skills set,No
+Female,Communication and media studies,Freshmen,3.1 -- 3.5,"No, I don't think so",5,"I want to improve my skills, then my CGPA",4,4,Experience,Highly paid jobs with average skills set,No
+Male,Economics & Wealth Management ,Sophomore,3.6 -- 4.0,"No, I don't think so",5,I'm partially working on both,5,3,Experience,Highly paid jobs with average skills set,Yes
+Male,Computer Science Department,Senior,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,5,2,Both,Highly paid jobs with average skills set,Yes
+Female,Pharmacy ,Graduated,2.1 -- 3.0,"Yes, I think so",1,"I want to improve my skills, then my CGPA",1,1,Experience,Career learning skills with low paid jobs,Yes
+Female,Computer Science Department,Junior,3.6 -- 4.0,"No, I don't think so",2,"I want to improve my skills, then my CGPA",3,1,Experience,Career learning skills with low paid jobs,No
+Female,Information Technology,Junior,3.6 -- 4.0,"Maybe, I don't know",3,I'm partially working on both,5,4,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Senior,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",4,3,Both,Highly paid jobs with average skills set,No
+Male,Engineering Department,Sophomore,2.1 -- 3.0,"Maybe, I don't know",1,I'm partially working on both,3,1,Experience,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Senior,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,4,3,Experience,Career learning skills with low paid jobs,No
+Prefer not to say,Computer Science Department,Junior,3.1 -- 3.5,"Yes, I think so",3,None of the above,4,4,Experience,Highly paid jobs with average skills set,No
+Male,Medical and Health Sciences,Freshmen,3.6 -- 4.0,"Yes, I think so",5,I'm partially working on both,5,3,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Freshmen,3.6 -- 4.0,"No, I don't think so",2,I'm partially working on both,4,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Junior,3.6 -- 4.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",4,3,Both,Highly paid jobs with average skills set,No
+Female,Engineering Department,Graduated,3.1 -- 3.5,"Yes, I think so",4,I'm partially working on both,5,3,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Sophomore,1.7 -- 2.0,"Maybe, I don't know",1,I'm partially working on both,4,4,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Graduated,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,2,4,CGPA,Highly paid jobs with average skills set,Yes
+Female,Clinical psychology ,Freshmen,3.1 -- 3.5,"No, I don't think so",3,I'm partially working on both,3,3,Experience,Highly paid jobs with average skills set,Yes
+Male,Computer Science Department,Freshmen,3.6 -- 4.0,"No, I don't think so",2,I'm partially working on both,4,3,Both,Highly paid jobs with average skills set,No
+Prefer not to say,Engineering Department,Junior,3.6 -- 4.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",4,4,CGPA,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Sophomore,3.1 -- 3.5,"Maybe, I don't know",5,I'm partially working on both,5,5,Both,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",3,4,Both,Career learning skills with low paid jobs,No
+Male,Medical and Health Sciences,Senior,3.6 -- 4.0,"No, I don't think so",2,"I want to improve my skills, then my CGPA",4,3,Experience,Career learning skills with low paid jobs,No
+Male,Medical and Health Sciences,Graduated,3.6 -- 4.0,"Yes, I think so",1,"I want to improve my skills, then my CGPA",5,1,CGPA,Career learning skills with low paid jobs,No
+Female,Engineering Department,Senior,2.1 -- 3.0,"No, I don't think so",1,I'm partially working on both,2,4,Both,Career learning skills with low paid jobs,No
+Female,Arts Department,Sophomore,3.6 -- 4.0,"Yes, I think so",3,I'm partially working on both,4,5,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Sophomore,3.1 -- 3.5,"Yes, I think so",4,Trying to get a good CGPA first,5,4,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Junior,3.1 -- 3.5,"Yes, I think so",5,I'm partially working on both,4,4,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Sophomore,3.1 -- 3.5,"No, I don't think so",1,"I want to improve my skills, then my CGPA",3,4,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Junior,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",3,3,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",1,I'm partially working on both,5,5,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Sophomore,2.1 -- 3.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",4,4,Experience,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Junior,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",3,3,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Senior,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,4,3,Experience,Career learning skills with low paid jobs,No
+Female,Management ,Freshmen,2.1 -- 3.0,"Yes, I think so",1,Trying to get a good CGPA first,4,3,Both,Highly paid jobs with average skills set,No
+Female,Business,Junior,3.1 -- 3.5,"Maybe, I don't know",4,I'm partially working on both,5,4,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Junior,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",4,3,Experience,Highly paid jobs with average skills set,No
+Female,Psychology ,Graduated,3.1 -- 3.5,"No, I don't think so",2,"I want to improve my skills, then my CGPA",3,3,Experience,Highly paid jobs with average skills set,No
+Female,Home economist ,Graduated,2.1 -- 3.0,"No, I don't think so",3,I'm partially working on both,2,2,Experience,Highly paid jobs with average skills set,No
+Female,Psychology ,Graduated,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",3,3,Experience,Career learning skills with low paid jobs,No
+Prefer not to say,Computer Science Department,Sophomore,3.1 -- 3.5,"No, I don't think so",2,"I want to improve my skills, then my CGPA",3,5,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Freshmen,3.6 -- 4.0,"Yes, I think so",4,Trying to get a good CGPA first,5,4,Experience,Highly paid jobs with average skills set,No
+Female,Business,Graduated,3.1 -- 3.5,"No, I don't think so",2,"I want to improve my skills, then my CGPA",5,3,Experience,Highly paid jobs with average skills set,No
+Female,Business,Sophomore,3.6 -- 4.0,"Yes, I think so",3,I'm partially working on both,3,4,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Sophomore,2.1 -- 3.0,"No, I don't think so",2,"I want to improve my skills, then my CGPA",3,3,Both,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Junior,3.6 -- 4.0,"No, I don't think so",4,I'm partially working on both,3,4,Experience,Highly paid jobs with average skills set,No
+Prefer not to say,Arts Department,Graduated,2.1 -- 3.0,"No, I don't think so",5,Trying to get a good CGPA first,1,5,Both,Highly paid jobs with average skills set,Yes
+Male,Business,Freshmen,3.1 -- 3.5,"Maybe, I don't know",4,I'm partially working on both,5,4,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Junior,3.6 -- 4.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",5,4,Both,Highly paid jobs with average skills set,No
+Male,Medical and Health Sciences,Sophomore,2.1 -- 3.0,"No, I don't think so",3,I'm partially working on both,3,2,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Senior,2.1 -- 3.0,"Maybe, I don't know",1,None of the above,2,4,Experience,Highly paid jobs with average skills set,Yes
+Female,Medical and Health Sciences,Senior,2.1 -- 3.0,"Yes, I think so",2,"I want to improve my skills, then my CGPA",3,3,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Junior,3.6 -- 4.0,"Maybe, I don't know",3,I'm partially working on both,3,3,Experience,Highly paid jobs with average skills set,No
+Male,Medical and Health Sciences,Senior,2.1 -- 3.0,"Yes, I think so",3,I'm partially working on both,3,2,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",1,I'm partially working on both,4,5,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Graduated,3.6 -- 4.0,"No, I don't think so",2,"I want to improve my skills, then my CGPA",5,4,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Senior,3.6 -- 4.0,"No, I don't think so",5,I'm partially working on both,5,4,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.6 -- 4.0,"Maybe, I don't know",3,I'm partially working on both,5,4,Experience,Career learning skills with low paid jobs,No
+Female,Business,Junior,3.1 -- 3.5,"Yes, I think so",2,I'm partially working on both,4,3,CGPA,Career learning skills with low paid jobs,No
+Male,Media mass com.,Senior,3.1 -- 3.5,"Yes, I think so",1,"I want to improve my skills, then my CGPA",5,3,Experience,Highly paid jobs with average skills set,No
+Male,Insurance,Graduated,2.1 -- 3.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",4,2,Both,Highly paid jobs with average skills set,No
+Male,Medical and Health Sciences,Freshmen,3.6 -- 4.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",5,3,Experience,Highly paid jobs with average skills set,No
+Male,Law,Freshmen,3.1 -- 3.5,"Maybe, I don't know",1,"I want to improve my skills, then my CGPA",3,1,Both,Career learning skills with low paid jobs,No
+Male,Engineering Department,Graduated,3.1 -- 3.5,"Maybe, I don't know",2,I'm partially working on both,5,4,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Junior,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,5,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Maybe, I don't know",2,"I want to improve my skills, then my CGPA",4,3,Experience,Highly paid jobs with average skills set,No
+Male,Engineering Department,Senior,2.1 -- 3.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",5,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Junior,2.1 -- 3.0,"No, I don't think so",1,"I want to improve my skills, then my CGPA",2,2,Both,Career learning skills with low paid jobs,No
+Male,Medical and Health Sciences,Sophomore,3.1 -- 3.5,"No, I don't think so",1,"I want to improve my skills, then my CGPA",4,4,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.6 -- 4.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",4,1,Experience,Career learning skills with low paid jobs,No
+Male,Engineering Department,Sophomore,3.1 -- 3.5,"No, I don't think so",3,I'm partially working on both,4,3,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Junior,3.6 -- 4.0,"Yes, I think so",4,None of the above,5,5,Both,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Freshmen,1.7 -- 2.0,"Maybe, I don't know",2,I'm partially working on both,4,3,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Junior,3.6 -- 4.0,"No, I don't think so",1,"I want to improve my skills, then my CGPA",3,4,Both,Highly paid jobs with average skills set,Yes
+Female,Medical lab technology,Junior,3.6 -- 4.0,"No, I don't think so",3,Trying to get a good CGPA first,5,5,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Freshmen,2.1 -- 3.0,"Yes, I think so",2,"I want to improve my skills, then my CGPA",3,3,Experience,Highly paid jobs with average skills set,No
+Female,Bs Islamic studies ,Junior,3.6 -- 4.0,"Yes, I think so",3,"I want to improve my skills, then my CGPA",5,5,Both,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Senior,3.6 -- 4.0,"No, I don't think so",2,I'm partially working on both,3,4,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Sophomore,3.1 -- 3.5,"Maybe, I don't know",2,"I want to improve my skills, then my CGPA",4,4,Experience,Highly paid jobs with average skills set,No
+Male,Law,Senior,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,4,4,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Graduated,3.6 -- 4.0,"No, I don't think so",4,I'm partially working on both,5,3,Both,Career learning skills with low paid jobs,Yes
+Female,Engineering Department,Junior,3.1 -- 3.5,"No, I don't think so",2,I'm partially working on both,5,4,Experience,Career learning skills with low paid jobs,No
+Male,Business,Senior,2.1 -- 3.0,"Maybe, I don't know",2,Trying to get a good CGPA first,1,2,Both,Highly paid jobs with average skills set,No
+Female,CGIS,Junior,3.6 -- 4.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",4,4,Experience,Career learning skills with low paid jobs,Yes
+Male,Computer Science Department,Junior,2.1 -- 3.0,"Yes, I think so",3,"I want to improve my skills, then my CGPA",3,4,CGPA,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Freshmen,2.1 -- 3.0,"Yes, I think so",1,I'm partially working on both,4,1,Both,Highly paid jobs with average skills set,No
+Male,Law,Junior,2.1 -- 3.0,"No, I don't think so",1,I'm partially working on both,4,4,Experience,Career learning skills with low paid jobs,No
+Male,Engineering Department,Freshmen,2.1 -- 3.0,"Yes, I think so",2,"I want to improve my skills, then my CGPA",4,3,Experience,Career learning skills with low paid jobs,No
+Male,Accounting ,Junior,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,5,3,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Sophomore,3.1 -- 3.5,"Maybe, I don't know",2,"I want to improve my skills, then my CGPA",3,3,Experience,Highly paid jobs with average skills set,Yes
+Male,Medical and Health Sciences,Graduated,3.1 -- 3.5,"No, I don't think so",2,I'm partially working on both,5,4,Experience,Highly paid jobs with average skills set,No
+Male,Security company ,Graduated,1.7 -- 2.0,"No, I don't think so",3,I'm partially working on both,4,2,Both,Career learning skills with low paid jobs,No
+Male,Engineering Department,Graduated,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",4,3,Experience,Career learning skills with low paid jobs,No
+Male,Arts Department,Graduated,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",3,3,Experience,Career learning skills with low paid jobs,Yes
+Female,Computer Science Department,Freshmen,3.6 -- 4.0,"Maybe, I don't know",4,I'm partially working on both,4,3,Experience,Highly paid jobs with average skills set,No
+Female,Mathematics,Junior,3.1 -- 3.5,"Maybe, I don't know",3,Trying to get a good CGPA first,3,4,Experience,Highly paid jobs with average skills set,No
+Male,Engineering Department,Graduated,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,5,4,Both,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Sophomore,2.1 -- 3.0,"No, I don't think so",1,I'm partially working on both,4,5,Both,Highly paid jobs with average skills set,No
+Male,Engineering Department,Junior,3.6 -- 4.0,"Yes, I think so",3,I'm partially working on both,3,4,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",5,"I want to improve my skills, then my CGPA",3,5,Both,Career learning skills with low paid jobs,No
+Male,Medical and Health Sciences,Senior,2.1 -- 3.0,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",4,4,Experience,Highly paid jobs with average skills set,No
+Prefer not to say,Medical and Health Sciences,Junior,3.1 -- 3.5,"Yes, I think so",2,"I want to improve my skills, then my CGPA",3,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.6 -- 4.0,"No, I don't think so",5,"I want to improve my skills, then my CGPA",3,3,CGPA,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",3,3,Experience,Highly paid jobs with average skills set,No
+Female,Arts Department,Graduated,3.6 -- 4.0,"Maybe, I don't know",4,"I want to improve my skills, then my CGPA",5,3,Experience,Highly paid jobs with average skills set,Yes
+Female,Medical and Health Sciences,Graduated,2.1 -- 3.0,"Maybe, I don't know",2,I'm partially working on both,3,3,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Senior,1.7 -- 2.0,"Maybe, I don't know",2,"I want to improve my skills, then my CGPA",3,3,Experience,Career learning skills with low paid jobs,No
+Female,Engineering Department,Senior,2.1 -- 3.0,"Yes, I think so",2,"I want to improve my skills, then my CGPA",3,2,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.6 -- 4.0,"Maybe, I don't know",3,I'm partially working on both,4,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Senior,3.1 -- 3.5,"No, I don't think so",4,I'm partially working on both,5,4,Both,Career learning skills with low paid jobs,No
+Female,Psychology ,Sophomore,3.6 -- 4.0,"Maybe, I don't know",3,I'm partially working on both,4,3,Experience,Highly paid jobs with average skills set,No
+Female,Engineering Department,Graduated,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,5,5,Both,Highly paid jobs with average skills set,Yes
+Male,Engineering Department,Senior,3.1 -- 3.5,"No, I don't think so",2,I'm partially working on both,1,1,Both,Career learning skills with low paid jobs,No
+Female,Accounting and finance ,Senior,3.6 -- 4.0,"Yes, I think so",4,Trying to get a good CGPA first,3,5,Both,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Senior,2.1 -- 3.0,"Maybe, I don't know",3,I'm partially working on both,5,2,Experience,Career learning skills with low paid jobs,No
+Male,Medical and Health Sciences,Sophomore,2.1 -- 3.0,"No, I don't think so",2,I'm partially working on both,1,3,Experience,Highly paid jobs with average skills set,No
+Female,Engineering Department,Senior,2.1 -- 3.0,"Maybe, I don't know",3,I'm partially working on both,4,3,Both,Highly paid jobs with average skills set,Yes
+Male,Computer Science Department,Senior,2.1 -- 3.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",5,1,Experience,Career learning skills with low paid jobs,No
+Female,IIM,Junior,3.1 -- 3.5,"Yes, I think so",4,Trying to get a good CGPA first,5,4,Both,Highly paid jobs with average skills set,No
+Prefer not to say,Business,Junior,2.1 -- 3.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",2,2,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Senior,2.1 -- 3.0,"No, I don't think so",2,"I want to improve my skills, then my CGPA",3,4,Experience,Highly paid jobs with average skills set,No
+Female,Chemistry ,Junior,3.6 -- 4.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",5,3,Experience,Highly paid jobs with average skills set,Yes
+Female,Environmental science,Graduated,3.6 -- 4.0,"No, I don't think so",2,I'm partially working on both,2,2,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Junior,3.6 -- 4.0,"No, I don't think so",1,"I want to improve my skills, then my CGPA",3,2,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Senior,3.1 -- 3.5,"No, I don't think so",2,"I want to improve my skills, then my CGPA",3,2,CGPA,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Sophomore,3.6 -- 4.0,"Yes, I think so",3,I'm partially working on both,4,3,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Freshmen,3.6 -- 4.0,"Yes, I think so",5,I'm partially working on both,5,4,Both,Highly paid jobs with average skills set,Yes
+Male,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",3,4,Both,Career learning skills with low paid jobs,No
+Female,Busines and information technology department ,Freshmen,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,4,3,Experience,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Freshmen,3.1 -- 3.5,"Maybe, I don't know",2,"I want to improve my skills, then my CGPA",3,3,Experience,Career learning skills with low paid jobs,No
+Male,Pharmacist with Masters in Business Administration ,Graduated,3.1 -- 3.5,"Yes, I think so",4,I'm partially working on both,5,5,Experience,Career learning skills with low paid jobs,No
+Male,customer services,Graduated,3.1 -- 3.5,"Yes, I think so",4,"I want to improve my skills, then my CGPA",4,3,Experience,Career learning skills with low paid jobs,Yes
+Male,  Hospitality,Sophomore,2.1 -- 3.0,"Maybe, I don't know",3,I'm partially working on both,4,2,Both,Highly paid jobs with average skills set,Yes
+Female,Engineering Department,Graduated,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,5,4,Both,Highly paid jobs with average skills set,Yes
+Male,Mass Communication ,Senior,3.6 -- 4.0,"No, I don't think so",2,I'm partially working on both,5,2,Experience,Highly paid jobs with average skills set,No
+Male,Medical and Health Sciences,Senior,3.1 -- 3.5,"Maybe, I don't know",2,"I want to improve my skills, then my CGPA",3,2,Experience,Highly paid jobs with average skills set,No
+Male,Engineering Department,Graduated,2.1 -- 3.0,"No, I don't think so",2,"I want to improve my skills, then my CGPA",4,3,Experience,Career learning skills with low paid jobs,Yes
+Female,Computer Science Department,Senior,3.1 -- 3.5,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",4,5,Both,Career learning skills with low paid jobs,Yes
+Female,Computer Science Department,Freshmen,2.1 -- 3.0,"No, I don't think so",2,I'm partially working on both,3,4,Experience,Career learning skills with low paid jobs,No
+Female,Media Technologies ,Senior,2.1 -- 3.0,"Maybe, I don't know",2,I'm partially working on both,2,2,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Junior,3.1 -- 3.5,"No, I don't think so",2,"I want to improve my skills, then my CGPA",4,5,Experience,Career learning skills with low paid jobs,No
+Female,Physics,Junior,3.6 -- 4.0,"Yes, I think so",2,I'm partially working on both,5,3,Experience,Highly paid jobs with average skills set,Yes
+Female,Economics,Senior,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",5,3,Experience,Career learning skills with low paid jobs,No
+Female,Engineering Department,Graduated,3.6 -- 4.0,"No, I don't think so",4,"I want to improve my skills, then my CGPA",4,4,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Senior,3.1 -- 3.5,"No, I don't think so",2,I'm partially working on both,4,3,Experience,Career learning skills with low paid jobs,No
+Female,Bs.ecnomics ,Graduated,2.1 -- 3.0,"Yes, I think so",3,I'm partially working on both,3,3,Both,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Graduated,3.1 -- 3.5,"Yes, I think so",5,I'm partially working on both,5,5,Both,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Junior,3.1 -- 3.5,"Yes, I think so",3,Trying to get a good CGPA first,4,4,Both,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Freshmen,3.6 -- 4.0,"Yes, I think so",1,I'm partially working on both,1,1,Both,Highly paid jobs with average skills set,No
+Female,Arts Department,Junior,3.1 -- 3.5,"No, I don't think so",3,I'm partially working on both,2,2,Experience,Highly paid jobs with average skills set,No
+Female,Economics ,Junior,3.1 -- 3.5,"Yes, I think so",1,I'm partially working on both,5,3,Both,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Graduated,3.1 -- 3.5,"Yes, I think so",1,I'm partially working on both,4,1,Both,Highly paid jobs with average skills set,Yes
+Female,Engineering Department,Junior,1.7 -- 2.0,"No, I don't think so",2,I'm partially working on both,2,1,Experience,Highly paid jobs with average skills set,No
+Female,economic department ,Sophomore,2.1 -- 3.0,"Yes, I think so",4,I'm partially working on both,2,5,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Freshmen,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,4,4,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Senior,3.6 -- 4.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",3,3,Experience,Highly paid jobs with average skills set,No
+Male,Engineering Department,Freshmen,3.1 -- 3.5,"No, I don't think so",2,I'm partially working on both,4,2,Both,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Freshmen,2.1 -- 3.0,"Maybe, I don't know",3,Trying to get a good CGPA first,3,4,Both,Highly paid jobs with average skills set,Yes
+Female,Economics ,Senior,2.1 -- 3.0,"No, I don't think so",3,Trying to get a good CGPA first,4,4,Experience,Career learning skills with low paid jobs,Yes
+Female,Business,Senior,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",5,3,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Sophomore,1.7 -- 2.0,"Yes, I think so",2,"I want to improve my skills, then my CGPA",5,4,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Graduated,3.1 -- 3.5,"Yes, I think so",4,"I want to improve my skills, then my CGPA",3,4,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Junior,3.6 -- 4.0,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",4,5,Both,Career learning skills with low paid jobs,No
+Female,Information Management,Junior,3.6 -- 4.0,"Yes, I think so",3,I'm partially working on both,4,3,Both,Career learning skills with low paid jobs,No
+Female,Arts Department,Graduated,2.1 -- 3.0,"Yes, I think so",4,I'm partially working on both,5,3,Both,Career learning skills with low paid jobs,No
+Female,Economics,Graduated,3.6 -- 4.0,"Maybe, I don't know",3,Trying to get a good CGPA first,3,4,CGPA,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Junior,1.7 -- 2.0,"Maybe, I don't know",3,I'm partially working on both,4,3,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Senior,2.1 -- 3.0,"Maybe, I don't know",2,"I want to improve my skills, then my CGPA",4,5,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Junior,3.1 -- 3.5,"No, I don't think so",2,I'm partially working on both,4,2,Experience,Highly paid jobs with average skills set,Yes
+Female,Business,Senior,3.1 -- 3.5,"Maybe, I don't know",4,Trying to get a good CGPA first,3,3,Both,Career learning skills with low paid jobs,No
+Female,Engineering Department,Graduated,3.1 -- 3.5,"Maybe, I don't know",4,"I want to improve my skills, then my CGPA",5,3,Both,Highly paid jobs with average skills set,No
+Female,BS-ECONOMICS ,Graduated,3.1 -- 3.5,"Yes, I think so",3,Trying to get a good CGPA first,5,3,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Junior,2.1 -- 3.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",4,4,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Junior,3.6 -- 4.0,"Maybe, I don't know",4,Trying to get a good CGPA first,4,4,Both,Highly paid jobs with average skills set,No
+Female,Engineering Department,Junior,3.1 -- 3.5,"Maybe, I don't know",3,Trying to get a good CGPA first,4,4,Both,Highly paid jobs with average skills set,No
+Female,Department of Economics,Junior,2.1 -- 3.0,"Yes, I think so",1,I'm partially working on both,3,2,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Sophomore,2.1 -- 3.0,"Yes, I think so",4,Trying to get a good CGPA first,5,5,Both,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Junior,3.1 -- 3.5,"No, I don't think so",2,I'm partially working on both,4,2,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Sophomore,2.1 -- 3.0,"Yes, I think so",3,I'm partially working on both,3,4,Both,Highly paid jobs with average skills set,No
+Female,Business,Sophomore,3.1 -- 3.5,"No, I don't think so",2,I'm partially working on both,3,2,Experience,Highly paid jobs with average skills set,No
+Male,Engineering Department,Senior,2.1 -- 3.0,"No, I don't think so",1,"I want to improve my skills, then my CGPA",3,3,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Junior,3.1 -- 3.5,"Yes, I think so",1,I'm partially working on both,5,4,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Junior,2.1 -- 3.0,"Yes, I think so",3,I'm partially working on both,4,5,Experience,Highly paid jobs with average skills set,No
+Male,Medical and Health Sciences,Freshmen,3.6 -- 4.0,"Yes, I think so",2,I'm partially working on both,5,4,Both,Highly paid jobs with average skills set,No
+Female,Arts Department,Junior,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,3,2,Both,Highly paid jobs with average skills set,No
+Female,Engineering Department,Junior,3.1 -- 3.5,"Maybe, I don't know",2,I'm partially working on both,3,4,Experience,Career learning skills with low paid jobs,Yes
+Female,Arts,Freshmen,3.6 -- 4.0,"Maybe, I don't know",1,I'm partially working on both,4,4,Experience,Highly paid jobs with average skills set,No
+Female,Economics,Senior,2.1 -- 3.0,"Yes, I think so",3,I'm partially working on both,3,3,Both,Career learning skills with low paid jobs,No
+Male,Business,Junior,3.1 -- 3.5,"Yes, I think so",2,"I want to improve my skills, then my CGPA",4,3,Experience,Career learning skills with low paid jobs,No
+Female,Business,Sophomore,2.1 -- 3.0,"No, I don't think so",2,"I want to improve my skills, then my CGPA",2,3,Experience,Highly paid jobs with average skills set,No
+Female,Fsc medical,Senior,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,4,3,Experience,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Sophomore,3.1 -- 3.5,"Yes, I think so",3,Trying to get a good CGPA first,4,3,Experience,Highly paid jobs with average skills set,No
+Female,Economics ,Junior,2.1 -- 3.0,"No, I don't think so",4,I'm partially working on both,5,4,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Freshmen,3.6 -- 4.0,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",3,3,CGPA,Highly paid jobs with average skills set,No
+Prefer not to say,Business,Graduated,2.1 -- 3.0,"Yes, I think so",3,"I want to improve my skills, then my CGPA",3,3,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Junior,3.6 -- 4.0,"Yes, I think so",3,I'm partially working on both,4,3,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Graduated,2.1 -- 3.0,"Maybe, I don't know",3,I'm partially working on both,5,3,Both,Career learning skills with low paid jobs,No
+Female,Economics,Senior,2.1 -- 3.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",3,3,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,4,3,Experience,Career learning skills with low paid jobs,No
+Male,Engineering Department,Sophomore,2.1 -- 3.0,"Maybe, I don't know",4,Trying to get a good CGPA first,3,3,Both,Highly paid jobs with average skills set,No
+Female,Economics,Senior,2.1 -- 3.0,"Yes, I think so",5,I'm partially working on both,5,5,Both,Highly paid jobs with average skills set,No
+Male,Business,Junior,3.1 -- 3.5,"No, I don't think so",3,I'm partially working on both,5,2,Experience,Highly paid jobs with average skills set,No
+Female,Economics,Graduated,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",4,1,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Senior,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",5,3,Experience,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Graduated,2.1 -- 3.0,"Yes, I think so",5,"I want to improve my skills, then my CGPA",4,4,Both,Highly paid jobs with average skills set,Yes
+Female,Medical and Health Sciences,Senior,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,4,3,Experience,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Senior,3.6 -- 4.0,"Maybe, I don't know",3,I'm partially working on both,4,4,Experience,Highly paid jobs with average skills set,No
+Female,not yet studing,Graduated,2.1 -- 3.0,"Yes, I think so",4,Trying to get a good CGPA first,4,3,Experience,Career learning skills with low paid jobs,No
+Female,Economics ,Graduated,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,3,3,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Sophomore,2.1 -- 3.0,"Maybe, I don't know",2,I'm partially working on both,3,4,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Graduated,3.1 -- 3.5,"Yes, I think so",4,I'm partially working on both,5,1,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Junior,3.6 -- 4.0,"No, I don't think so",3,I'm partially working on both,4,3,Experience,Highly paid jobs with average skills set,No
+Female,B.S Economic ,Junior,3.6 -- 4.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",3,2,Experience,Career learning skills with low paid jobs,No
+Female,Business,Senior,2.1 -- 3.0,"Yes, I think so",5,"I want to improve my skills, then my CGPA",3,4,Experience,Career learning skills with low paid jobs,Yes
+Female,Medical and Health Sciences,Senior,3.6 -- 4.0,"No, I don't think so",2,"I want to improve my skills, then my CGPA",5,4,Both,Highly paid jobs with average skills set,No
+Female,Economics ,Senior,3.6 -- 4.0,"Yes, I think so",3,"I want to improve my skills, then my CGPA",5,4,Both,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Senior,3.6 -- 4.0,"No, I don't think so",4,I'm partially working on both,4,2,Experience,Highly paid jobs with average skills set,No
+Male,Mass com,Graduated,3.1 -- 3.5,"Yes, I think so",3,"I want to improve my skills, then my CGPA",5,5,Both,Highly paid jobs with average skills set,No
+Female,Economics ,Senior,2.1 -- 3.0,"Yes, I think so",3,Trying to get a good CGPA first,3,5,Experience,Highly paid jobs with average skills set,No
+Female,Economics Department ,Graduated,2.1 -- 3.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",4,4,Both,Career learning skills with low paid jobs,No
+Male,Medical and Health Sciences,Senior,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,4,3,Both,Highly paid jobs with average skills set,No
+Female,Arts Department,Senior,2.1 -- 3.0,"Yes, I think so",3,"I want to improve my skills, then my CGPA",5,3,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Graduated,2.1 -- 3.0,"Yes, I think so",5,"I want to improve my skills, then my CGPA",3,4,Experience,Career learning skills with low paid jobs,No
+Female,Teaching,Senior,2.1 -- 3.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",5,2,Experience,Highly paid jobs with average skills set,Yes
+Female,Engineering Department,Senior,3.1 -- 3.5,"No, I don't think so",1,I'm partially working on both,4,3,Both,Highly paid jobs with average skills set,No
+Female,Law,Graduated,1.7 -- 2.0,"Yes, I think so",2,"I want to improve my skills, then my CGPA",3,2,Experience,Career learning skills with low paid jobs,No
+Female,Economics ,Graduated,2.1 -- 3.0,"Yes, I think so",4,I'm partially working on both,4,4,Experience,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Graduated,3.6 -- 4.0,"Yes, I think so",5,I'm partially working on both,3,1,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Freshmen,3.6 -- 4.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",4,4,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Graduated,3.1 -- 3.5,"Yes, I think so",5,I'm partially working on both,5,3,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,4,4,Experience,Highly paid jobs with average skills set,No
+Female,A banker,Senior,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,5,4,Both,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Senior,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,3,3,Both,Career learning skills with low paid jobs,No
+Female,Institute of information management ,Junior,3.1 -- 3.5,"Yes, I think so",2,"I want to improve my skills, then my CGPA",3,3,Both,Career learning skills with low paid jobs,No
+Female,medical laboratory technology,Senior,2.1 -- 3.0,"Maybe, I don't know",2,"I want to improve my skills, then my CGPA",1,1,Both,Career learning skills with low paid jobs,No
+Female,Economics,Senior,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,3,3,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",4,"I want to improve my skills, then my CGPA",3,4,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Junior,3.6 -- 4.0,"No, I don't think so",3,I'm partially working on both,5,5,Experience,Highly paid jobs with average skills set,No
+Female,Economics,Sophomore,3.1 -- 3.5,"Yes, I think so",3,Trying to get a good CGPA first,2,1,Both,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Freshmen,3.1 -- 3.5,"Maybe, I don't know",1,I'm partially working on both,5,2,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Senior,2.1 -- 3.0,"No, I don't think so",3,I'm partially working on both,3,4,Experience,Highly paid jobs with average skills set,No
+Male,Medical and Health Sciences,Junior,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,4,1,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Senior,2.1 -- 3.0,"Yes, I think so",2,I'm partially working on both,4,4,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Graduated,3.1 -- 3.5,"Yes, I think so",2,"I want to improve my skills, then my CGPA",4,3,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Sophomore,3.6 -- 4.0,"No, I don't think so",3,"I want to improve my skills, then my CGPA",2,4,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Senior,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,3,4,Both,Career learning skills with low paid jobs,No
+Female,Business,Freshmen,2.1 -- 3.0,"No, I don't think so",2,I'm partially working on both,4,3,Both,Career learning skills with low paid jobs,No
+Female,Engineering Department,Senior,3.1 -- 3.5,"No, I don't think so",1,"I want to improve my skills, then my CGPA",1,3,CGPA,Highly paid jobs with average skills set,Yes
+Female,Arts Department,Senior,2.1 -- 3.0,"No, I don't think so",1,"I want to improve my skills, then my CGPA",5,3,Experience,Highly paid jobs with average skills set,No
+Female,Economics Department ,Graduated,2.1 -- 3.0,"Yes, I think so",3,"I want to improve my skills, then my CGPA",4,3,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Senior,3.1 -- 3.5,"No, I don't think so",1,I'm partially working on both,3,2,Both,Highly paid jobs with average skills set,No
+Male,Business,Graduated,2.1 -- 3.0,"Yes, I think so",5,"I want to improve my skills, then my CGPA",5,5,Experience,Highly paid jobs with average skills set,No
+Female,Economics department,Junior,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,5,2,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Senior,2.1 -- 3.0,"Yes, I think so",3,I'm partially working on both,4,2,Both,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Junior,2.1 -- 3.0,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",4,3,CGPA,Career learning skills with low paid jobs,No
+Female,Engineering Department,Sophomore,2.1 -- 3.0,"Maybe, I don't know",3,Trying to get a good CGPA first,3,3,Both,Career learning skills with low paid jobs,Yes
+Female,Business,Graduated,3.6 -- 4.0,"Maybe, I don't know",2,I'm partially working on both,5,5,Experience,Highly paid jobs with average skills set,Yes
+Female,Engineering Department,Freshmen,1.7 -- 2.0,"Yes, I think so",1,Trying to get a good CGPA first,1,1,Experience,Career learning skills with low paid jobs,Yes
+Male,Law,Freshmen,2.1 -- 3.0,"Maybe, I don't know",5,I'm partially working on both,5,2,Both,Career learning skills with low paid jobs,No
+Female,Medical and Health Sciences,Freshmen,3.1 -- 3.5,"Maybe, I don't know",3,Trying to get a good CGPA first,3,4,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Junior,3.1 -- 3.5,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",4,4,Both,Career learning skills with low paid jobs,No
+Female,Economics,Graduated,3.6 -- 4.0,"Yes, I think so",4,I'm partially working on both,4,3,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Sophomore,3.6 -- 4.0,"No, I don't think so",1,I'm partially working on both,4,3,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Graduated,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,3,4,Both,Highly paid jobs with average skills set,Yes
+Male,Engineering Department,Junior,3.1 -- 3.5,"No, I don't think so",3,I'm partially working on both,2,3,Both,Highly paid jobs with average skills set,Yes
+Female,Computer Science Department,Freshmen,3.6 -- 4.0,"No, I don't think so",1,I'm partially working on both,5,4,Experience,Highly paid jobs with average skills set,No
+Female,Engineering Department,Freshmen,3.6 -- 4.0,"Maybe, I don't know",4,I'm partially working on both,2,2,CGPA,Highly paid jobs with average skills set,Yes
+Female,Medical and Health Sciences,Junior,2.1 -- 3.0,"Maybe, I don't know",3,I'm partially working on both,4,4,CGPA,Highly paid jobs with average skills set,Yes
+Female,Arts Department,Junior,2.1 -- 3.0,"Maybe, I don't know",4,I'm partially working on both,4,3,Both,Highly paid jobs with average skills set,Yes
+Female,Economics ,Freshmen,3.1 -- 3.5,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",2,3,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Junior,3.6 -- 4.0,"Yes, I think so",4,Trying to get a good CGPA first,5,3,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Freshmen,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",3,3,Both,Highly paid jobs with average skills set,No
+Female,Economics Department,Senior,2.1 -- 3.0,"Yes, I think so",5,I'm partially working on both,3,3,Both,Highly paid jobs with average skills set,No
+Female,Economic ,Graduated,2.1 -- 3.0,"Yes, I think so",3,I'm partially working on both,5,5,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Sophomore,3.6 -- 4.0,"No, I don't think so",4,I'm partially working on both,5,3,Experience,Highly paid jobs with average skills set,No
+Female,Economics ,Graduated,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,4,3,Both,Career learning skills with low paid jobs,Yes
+Male,Computer Science Department,Sophomore,2.1 -- 3.0,"Maybe, I don't know",4,None of the above,4,4,Both,Highly paid jobs with average skills set,No
+Prefer not to say,Computer Science Department,Junior,3.6 -- 4.0,"Maybe, I don't know",3,I'm partially working on both,3,3,Experience,Highly paid jobs with average skills set,No
+Female,Economic Department ,Graduated,2.1 -- 3.0,"Yes, I think so",3,"I want to improve my skills, then my CGPA",4,2,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Junior,1.7 -- 2.0,"Yes, I think so",2,I'm partially working on both,5,2,Experience,Highly paid jobs with average skills set,No
+Female,Economics department ,Graduated,2.1 -- 3.0,"Yes, I think so",5,Trying to get a good CGPA first,3,4,Both,Highly paid jobs with average skills set,No
+Female,Business,Senior,2.1 -- 3.0,"Yes, I think so",3,Trying to get a good CGPA first,4,3,Both,Highly paid jobs with average skills set,No
+Male,BBIT,Senior,2.1 -- 3.0,"No, I don't think so",2,"I want to improve my skills, then my CGPA",3,3,Experience,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Senior,3.6 -- 4.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",5,5,Experience,Highly paid jobs with average skills set,No
+Female,Arts Department,Senior,3.6 -- 4.0,"No, I don't think so",3,I'm partially working on both,5,3,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Senior,3.1 -- 3.5,"Yes, I think so",2,I'm partially working on both,4,4,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Senior,3.1 -- 3.5,"No, I don't think so",1,Trying to get a good CGPA first,5,4,Both,Highly paid jobs with average skills set,Yes
+Female,Medical and Health Sciences,Senior,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,4,3,Both,Career learning skills with low paid jobs,No
+Female,Business,Graduated,2.1 -- 3.0,"Yes, I think so",5,"I want to improve my skills, then my CGPA",5,3,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Freshmen,3.6 -- 4.0,"No, I don't think so",4,"I want to improve my skills, then my CGPA",5,5,Experience,Highly paid jobs with average skills set,No
+Male,Business,Junior,2.1 -- 3.0,"Yes, I think so",4,Trying to get a good CGPA first,5,3,Both,Highly paid jobs with average skills set,No
+Female,Economics,Graduated,2.1 -- 3.0,"Yes, I think so",4,"I want to improve my skills, then my CGPA",4,5,Experience,Career learning skills with low paid jobs,No
+Prefer not to say,Business,Senior,3.6 -- 4.0,"Yes, I think so",2,I'm partially working on both,3,5,Both,Career learning skills with low paid jobs,No
+Male,Medical and Health Sciences,Senior,3.1 -- 3.5,"No, I don't think so",1,"I want to improve my skills, then my CGPA",3,4,Experience,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",4,Trying to get a good CGPA first,2,4,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,3,3,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Freshmen,3.6 -- 4.0,"No, I don't think so",3,I'm partially working on both,4,3,CGPA,Highly paid jobs with average skills set,Yes
+Male,Medical and Health Sciences,Freshmen,3.1 -- 3.5,"Maybe, I don't know",3,None of the above,5,2,Both,Highly paid jobs with average skills set,Yes
+Prefer not to say,Medical and Health Sciences,Senior,3.6 -- 4.0,"No, I don't think so",4,I'm partially working on both,2,1,CGPA,Highly paid jobs with average skills set,No
+Male,Engineering Department,Sophomore,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,3,3,Both,Highly paid jobs with average skills set,No
+Male,Business,Sophomore,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,3,3,Both,Highly paid jobs with average skills set,No
+Prefer not to say,Law,Junior,3.6 -- 4.0,"No, I don't think so",5,I'm partially working on both,5,5,Both,Highly paid jobs with average skills set,No
+Male,Computer Science Department,Sophomore,3.6 -- 4.0,"No, I don't think so",5,None of the above,5,5,Both,Highly paid jobs with average skills set,No
+Female,Computer Science Department,Junior,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,3,3,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Sophomore,3.1 -- 3.5,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",3,3,Both,Career learning skills with low paid jobs,Yes
+Female,Business,Senior,3.1 -- 3.5,"No, I don't think so",5,I'm partially working on both,5,5,Both,Highly paid jobs with average skills set,No
+Male,Business,Junior,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,3,3,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Sophomore,3.1 -- 3.5,"No, I don't think so",3,"I want to improve my skills, then my CGPA",3,4,Experience,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Freshmen,3.6 -- 4.0,"No, I don't think so",5,"I want to improve my skills, then my CGPA",4,2,CGPA,Highly paid jobs with average skills set,Yes
+Female,Business,Sophomore,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,3,3,Both,Career learning skills with low paid jobs,No
+Male,Engineering Department,Senior,3.6 -- 4.0,"Maybe, I don't know",5,"I want to improve my skills, then my CGPA",5,3,Experience,Career learning skills with low paid jobs,Yes
+Prefer not to say,Engineering Department,Graduated,3.6 -- 4.0,"No, I don't think so",5,"I want to improve my skills, then my CGPA",3,3,Both,Highly paid jobs with average skills set,No
+Female,Communication and Media Studies,Junior,3.6 -- 4.0,"Yes, I think so",1,"I want to improve my skills, then my CGPA",5,2,Both,Highly paid jobs with average skills set,No
+Female,Medical and Health Sciences,Junior,3.6 -- 4.0,"No, I don't think so",4,I'm partially working on both,4,2,Both,Highly paid jobs with average skills set,No
+Male,Business,Sophomore,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,3,3,Both,Career learning skills with low paid jobs,No
+Female,Business,Graduated,3.6 -- 4.0,"Yes, I think so",5,I'm partially working on both,5,5,Experience,Highly paid jobs with average skills set,Yes
+Female,Arts Department,Senior,3.1 -- 3.5,"Maybe, I don't know",4,I'm partially working on both,3,4,CGPA,Highly paid jobs with average skills set,No
+Male,Engineering Department,Freshmen,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,3,3,Both,Career learning skills with low paid jobs,No
+Female,Business,Senior,3.1 -- 3.5,"No, I don't think so",4,"I want to improve my skills, then my CGPA",4,3,Both,Highly paid jobs with average skills set,No
+Male,Engineering Department,Graduated,3.1 -- 3.5,"Maybe, I don't know",4,I'm partially working on both,4,3,Experience,Highly paid jobs with average skills set,Yes
+Male,Medical and Health Sciences,Freshmen,3.1 -- 3.5,"Maybe, I don't know",4,"I want to improve my skills, then my CGPA",2,2,Both,Highly paid jobs with average skills set,No
+Male,Engineering Department,Senior,3.1 -- 3.5,"Maybe, I don't know",2,"I want to improve my skills, then my CGPA",3,3,Both,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Freshmen,3.6 -- 4.0,"No, I don't think so",2,I'm partially working on both,3,2,Both,Highly paid jobs with average skills set,No
+Prefer not to say,Engineering Department,Junior,3.1 -- 3.5,"Maybe, I don't know",3,I'm partially working on both,3,3,Both,Career learning skills with low paid jobs,No
+Female,Computer Science Department,Senior,3.1 -- 3.5,"No, I don't think so",2,"I want to improve my skills, then my CGPA",4,3,Experience,Career learning skills with low paid jobs,No
+Male,Business,Graduated,3.1 -- 3.5,"Maybe, I don't know",3,"I want to improve my skills, then my CGPA",4,2,Experience,Career learning skills with low paid jobs,No
+Male,Computer Science Department,Sophomore,3.1 -- 3.5,"Yes, I think so",3,I'm partially working on both,4,2,Both,Highly paid jobs with average skills set,No
